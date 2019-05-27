@@ -45,7 +45,7 @@ const customers = [
     'gender': '남자',
     'job': '디자이너'
   }
-]
+];
 
 class App extends Component {
   render() {
